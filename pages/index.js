@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Rediters!</title>
+    <meta http-equiv="Refresh" content="0; url='https://crmusic.tk'" />
       </Head>
 
       <main>
